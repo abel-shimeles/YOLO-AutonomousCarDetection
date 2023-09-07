@@ -6,7 +6,11 @@ The ideas presented in this repositoty came primarily from the two YOLO papers. 
 * Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras](https://github.com/allanzelener/YAD2K)
 * The official YOLO website (https://pjreddie.com/darknet/yolo/)
 
-https://github.com/abel-shimeles/YOLO-AutonomousCarDetection/assets/127602569/9caeaddc-e8b9-4884-b000-2dfa12c05539
+
+
+https://github.com/abel-shimeles/YOLO-AutonomousCarDetection/assets/127602569/942df2ca-9a60-46cb-aa58-276289594bfe
+
+
 
 ## YOLO
 
