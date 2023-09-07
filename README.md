@@ -7,7 +7,7 @@ The ideas presented in this repositoty came primarily from the two YOLO papers. 
 * The official YOLO website (https://pjreddie.com/darknet/yolo/)
 
 
-[Output](nb_images/pred_video_compressed2.mp4)
+(nb_images/pred_video_compressed2.mp4)
 
 
 ## YOLO
