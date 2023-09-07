@@ -5,7 +5,7 @@ The ideas presented in this repositoty came primarily from the two YOLO papers. 
 * Joseph Redmon, Ali Farhadi - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (2016)
 * Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras](https://github.com/allanzelener/YAD2K)
 * The official YOLO website (https://pjreddie.com/darknet/yolo/)
-* 
+
 https://github.com/abel-shimeles/YOLO-AutonomousCarDetection/assets/127602569/9caeaddc-e8b9-4884-b000-2dfa12c05539
 
 ## YOLO
