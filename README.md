@@ -35,7 +35,7 @@ https://github.com/abel-shimeles/YOLO-AutonomousCarDetection/assets/127602569/94
 
 #### 1. Cloning the repository
 ```shell
-git clone https://github.com/abel-shimeles/YOLO-AutonomousCarDetection
+git clone https://github.com/abel-shimeles/YOLO-AutonomousCarDetection.git
 cd YOLO-AutonomousCarDetection
 ```
 #### 2. Download the pretrained weights
